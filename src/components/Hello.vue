@@ -32,7 +32,7 @@ export default {
 </script>
 
 <style scoped>
-.my-dialog {
+.hello >>> .my-dialog {
   background: red;
   width: 300px;
 }
